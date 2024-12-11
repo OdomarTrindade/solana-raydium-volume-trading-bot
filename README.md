@@ -60,8 +60,8 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/rabnail/volume-bot_raydium.git
-cd volume-bot_raydium
+git clone https://github.com/rhettjel/solana-raydium-volume-trading-bot.git
+cd solana-raydium-volume-trading-bot
 ```
 2. Install dependencies
 ```
@@ -81,6 +81,6 @@ npm start
 ## Author
 
 Discord: @.runeeh in discord
-Telegram: [@runeeh](https://t.me/runeeh)
+Telegram: [@rhettjel](https://t.me/rhettjel)
 
 You can always find me here, for help, or for other projects.
